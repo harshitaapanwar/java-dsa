@@ -25,6 +25,6 @@ class LinearSearch {
        else{
            System.out.println("Element not exist in the array");
        }
-       
+       s.close();
     }
 }
